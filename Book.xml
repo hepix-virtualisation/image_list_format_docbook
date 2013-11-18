@@ -7,20 +7,20 @@
 
 <book id="HEPIXvwgBook" xmlns:xi="http://www.w3.org/2001/XInclude">
 
-  <title>HEPIX Virtualisation Working Group</title>
+  <title>Virtual Maschine Image Lists</title>
   <subtitle>2012-08-26</subtitle>
   <titleabbrev>HEPIX VWG</titleabbrev>
 
   <bookinfo>
     <abstract>
       <para>
-	
+	Format of HVG as an on going document.
       </para>
     </abstract>
 
     <date>2012-05-17</date>
     <author>
-      <firstname>Virtualisation Working Group</firstname>
+      <firstname>Virtualisation Working Group Format</firstname>
       <surname>HEPiX</surname>
     </author>
     <author>
@@ -138,9 +138,6 @@
   </preface>
   <toc/>
   <xi:include href="organsiation.xml"/>
-  <xi:include href="imagetrust.xml"/>
-  <xi:include href="imagecreation.xml"/>
   <xi:include href="imagetransfer.xml"/>
-  <xi:include href="contextualisation.xml"/>
 </book>
 
