@@ -7,15 +7,13 @@
 
 <book id="HEPIXvwgBook" xmlns:xi="http://www.w3.org/2001/XInclude">
 
-  <title>Virtual Maschine Image Lists</title>
+  <title>Image Lists</title>
   <subtitle>2012-08-26</subtitle>
-  <titleabbrev>HEPIX VWG</titleabbrev>
+  <titleabbrev>vmil</titleabbrev>
 
   <bookinfo>
     <abstract>
-      <para>
-	Format of HVG as an on going document.
-      </para>
+      <para>Virtual Maschine Image list Format as developed by the HVG as an on going document.</para>
     </abstract>
 
     <date>2012-05-17</date>
@@ -137,7 +135,11 @@
     </section>
   </preface>
   <toc/>
-  <xi:include href="organsiation.xml"/>
-  <xi:include href="imagetransfer.xml"/>
+  <xi:include href="organisation.xml"/>
+  <xi:include href="imagetransfer-plan.xml"/>
+  <xi:include href="imagetransfer-usecases.xml"/>
+  <xi:include href="imagetransfer-specs.xml"/>
+  <xi:include href="imagetransfer-imagelist.xml"/>
+  <xi:include href="imagetransfer-publishers.xml"/>
 </book>
 
