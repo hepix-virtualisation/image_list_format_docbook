@@ -11,27 +11,24 @@
       <firstname>Owen</firstname>
       <surname>Synge</surname>
     </author>
-  </info>
-<para>The &hepix; is an organisation and gathering of large
-predominately &hep; site administrators with the objective of
-sharing information and benefiting from each others
-experiences.</para>
-<para>The &vwg; was set up by &hepix; to investigate the
-implications use-cases and requirements of sites that where at the
-time expected to come from the relatively new technology of
-&vm; technology. The group is chaired by Tony Cass and has met
-regularly and maintains a mailing list 
-<email>hepix-virtualisation@cern.ch</email>where the majority of
-the content of this document is extracted from.</para>
-<para>&vwg; generated documentation includes many details
-on:</para>
-<itemizedlist>
+  </info>  
+  <title>&hepix; Organisation Introduction</title>
+  <para>The &hepix; is an organisation and gathering of large
+  predominately &hep; site administrators with the objective of
+  sharing information and benefiting from each others
+  experiences.</para>
+  <para>The &vwg; was set up by &hepix; to investigate the
+  implications use-cases and requirements of sites that where at the
+  time expected to come from the relatively new technology of
+  &vm; technology. The group is chaired by Tony Cass and has met
+  regularly and maintains a mailing list 
+  <email>hepix-virtualisation@cern.ch</email>where the majority of
+  the content of this document is extracted from.</para>
+  <para>&vwg; generated documentation includes many details on:</para>
+  <itemizedlist>
 <listitem>How to make &vmi; platform neutral.</listitem>
-<listitem>How to deploy site neutral images and contextualise them
-to a site such as batch queue integration.</listitem>
-<listitem>Meta data (and structure) required to describe an image
-for &hepix; needs, developed from multiple virtual machine
-management software.</listitem>
+<listitem>How to deploy site neutral images and contextualise them to a site such as batch queue integration.</listitem>
+<listitem>Meta data (and structure) required to describe an image for &hepix; needs, developed from multiple virtual machine management software.</listitem>
 <listitem>Software to mange images at a site.</listitem>
 <listitem>Requirements for image distribution across
 sites.</listitem>
